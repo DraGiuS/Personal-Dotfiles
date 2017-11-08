@@ -1,0 +1,16 @@
+VirtualBox GUI VM Selector Window 5.2.0 r118415 linux.amd64 (Oct 18 2017 21:39:48) release log
+00:00:00.327424 Log opened 2017-11-08T11:24:28.618084000Z
+00:00:00.327425 Build Type: release
+00:00:00.327427 OS Product: Linux
+00:00:00.327428 OS Release: 4.13.11-1-ARCH
+00:00:00.327429 OS Version: #1 SMP PREEMPT Thu Nov 2 10:25:56 CET 2017
+00:00:00.327449 DMI Product Name: 80SR
+00:00:00.327457 DMI Product Version: Lenovo ideapad 510-15ISK
+00:00:00.327494 Host RAM: 7893MB (7.7GB) total, 5700MB (5.5GB) available
+00:00:00.327498 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.327498 Process ID: 30636
+00:00:00.327499 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.327521 Qt version: 5.9.2
+00:00:00.363703 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.474928 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x24 x 960x1056
+00:00:00.499531 GUI: UIMediumEnumerator: Medium-enumeration finished!

@@ -1,0 +1,312 @@
+Nov 03 22:37 : exception: Failed to open /home/chris/.config/mpd/state: No such file or directory
+Nov 03 22:37 : exception: Failed to access /home/chris/Music: No such file or directory
+Nov 03 22:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 22:37 : client: [0] opened from 127.0.0.1:59264
+Nov 03 22:37 : client: [0] closed
+Nov 03 22:37 : client: [1] opened from 127.0.0.1:59266
+Nov 03 22:37 : client: [2] opened from [::1]:34480
+Nov 03 22:37 : exception: Not playing
+Nov 03 22:37 : client: [2] closed
+Nov 03 22:37 : client: [3] opened from [::1]:34482
+Nov 03 22:37 : exception: Not playing
+Nov 03 22:37 : client: [3] closed
+Nov 03 22:37 : client: [4] opened from [::1]:34484
+Nov 03 22:37 : exception: Not playing
+Nov 03 22:37 : client: [4] closed
+Nov 03 22:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 22:43 : client: [0] opened from 127.0.0.1:37080
+Nov 03 22:43 : client: [0] closed
+Nov 03 22:43 : client: [1] opened from 127.0.0.1:37082
+Nov 03 22:47 : client: [2] opened from [::1]:38262
+Nov 03 22:47 : exception: Not playing
+Nov 03 22:47 : client: [2] closed
+Nov 03 22:47 : client: [3] opened from [::1]:38264
+Nov 03 22:47 : exception: Not playing
+Nov 03 22:47 : client: [3] closed
+Nov 03 22:47 : client: [4] opened from [::1]:38266
+Nov 03 22:47 : exception: Not playing
+Nov 03 22:47 : client: [4] closed
+Nov 03 22:47 : client: [5] opened from [::1]:38268
+Nov 03 22:47 : exception: Not playing
+Nov 03 22:47 : client: [5] closed
+Nov 03 22:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 22:47 : client: [0] opened from 127.0.0.1:56852
+Nov 03 22:47 : client: [0] closed
+Nov 03 22:47 : client: [1] opened from 127.0.0.1:56854
+Nov 03 22:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 22:49 : client: [0] opened from 127.0.0.1:49632
+Nov 03 22:49 : client: [0] closed
+Nov 03 22:49 : client: [1] opened from 127.0.0.1:49634
+Nov 03 22:52 : client: [2] opened from [::1]:46518
+Nov 03 22:52 : exception: Not playing
+Nov 03 22:52 : client: [2] closed
+Nov 03 22:52 : client: [3] opened from [::1]:46520
+Nov 03 22:52 : exception: Not playing
+Nov 03 22:52 : client: [3] closed
+Nov 03 22:52 : client: [4] opened from [::1]:46522
+Nov 03 22:52 : exception: Not playing
+Nov 03 22:52 : client: [4] closed
+Nov 03 22:52 : client: [5] opened from [::1]:46524
+Nov 03 22:52 : exception: Not playing
+Nov 03 22:52 : client: [5] closed
+Nov 03 22:52 : client: [6] opened from [::1]:46526
+Nov 03 22:52 : client: [6] closed
+Nov 03 22:52 : client: [7] opened from [::1]:46528
+Nov 03 22:52 : client: [7] closed
+Nov 03 23:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 23:16 : client: [0] opened from 127.0.0.1:33140
+Nov 03 23:16 : client: [0] closed
+Nov 03 23:16 : client: [1] opened from 127.0.0.1:33142
+Nov 03 23:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 23:18 : client: [0] opened from 127.0.0.1:41566
+Nov 03 23:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 23:20 : client: [0] opened from 127.0.0.1:60890
+Nov 03 23:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 23:25 : client: [0] opened from 127.0.0.1:55340
+Nov 03 23:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 23:28 : client: [0] opened from 127.0.0.1:57036
+Nov 03 23:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 23:33 : client: [0] opened from 127.0.0.1:42070
+Nov 03 23:48 : client: [1] opened from [::1]:39300
+Nov 03 23:49 : client: [1] closed
+Nov 03 23:58 : client: [2] opened from [::1]:40380
+Nov 03 23:58 : client: [2] closed
+Nov 04 00:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 00:08 : client: [0] opened from 127.0.0.1:33908
+Nov 04 00:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 00:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 00:16 : client: [0] opened from 127.0.0.1:59632
+Nov 04 10:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 10:29 : client: [0] opened from 127.0.0.1:37376
+Nov 04 11:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 11:58 : client: [0] opened from 127.0.0.1:37476
+Nov 04 12:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 12:00 : client: [0] opened from 127.0.0.1:43954
+Nov 04 14:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 14:01 : client: [0] opened from 127.0.0.1:59688
+Nov 04 14:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 14:11 : client: [0] opened from 127.0.0.1:55152
+Nov 04 16:07 : client: [0] closed
+Nov 04 16:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 16:09 : client: [0] opened from 127.0.0.1:58922
+Nov 04 16:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 16:25 : client: [0] opened from 127.0.0.1:44254
+Nov 04 16:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 16:29 : client: [0] opened from 127.0.0.1:42604
+Nov 04 17:09 : client: [1] opened from [::1]:34242
+Nov 04 17:09 : client: [1] closed
+Nov 04 17:15 : client: [2] opened from [::1]:34992
+Nov 04 17:15 : client: [2] closed
+Nov 04 17:15 : client: [3] opened from [::1]:34998
+Nov 04 17:15 : client: [3] closed
+Nov 04 17:17 : client: [4] opened from [::1]:35406
+Nov 04 17:17 : client: [4] closed
+Nov 04 17:17 : client: [5] opened from [::1]:35408
+Nov 04 17:17 : client: [5] closed
+Nov 04 17:18 : client: [6] opened from [::1]:35410
+Nov 04 17:18 : client: [6] closed
+Nov 04 17:18 : client: [7] opened from [::1]:35414
+Nov 04 17:20 : client: [7] closed
+Nov 04 17:22 : client: [8] opened from [::1]:35654
+Nov 04 17:25 : client: [8] closed
+Nov 04 17:25 : client: [9] opened from [::1]:36456
+Nov 04 17:26 : client: [9] closed
+Nov 04 17:26 : client: [10] opened from [::1]:36458
+Nov 04 17:26 : client: [10] closed
+Nov 04 17:27 : client: [11] opened from [::1]:36634
+Nov 04 17:27 : exception: Not playing
+Nov 04 17:27 : client: [11] closed
+Nov 04 17:27 : client: [12] opened from [::1]:36644
+Nov 04 17:27 : exception: Not playing
+Nov 04 17:27 : client: [12] closed
+Nov 04 17:27 : client: [13] opened from [::1]:36646
+Nov 04 17:27 : exception: Not playing
+Nov 04 17:27 : client: [13] closed
+Nov 04 17:27 : client: [14] opened from [::1]:36648
+Nov 04 17:27 : exception: Not playing
+Nov 04 17:27 : client: [14] closed
+Nov 04 17:27 : client: [15] opened from [::1]:36650
+Nov 04 17:27 : client: [15] closed
+Nov 04 17:27 : client: [16] opened from [::1]:36652
+Nov 04 17:27 : client: [16] closed
+Nov 04 17:29 : client: [0] closed
+Nov 04 17:29 : client: [17] opened from 127.0.0.1:53920
+Nov 04 17:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 17:30 : client: [0] opened from 127.0.0.1:53532
+Nov 04 17:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 17:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 17:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 17:45 : client: [0] opened from 127.0.0.1:58476
+Nov 04 17:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 17:51 : client: [0] opened from 127.0.0.1:42110
+Nov 04 17:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 17:54 : client: [0] opened from 127.0.0.1:51900
+Nov 04 18:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 18:02 : client: [0] opened from 127.0.0.1:48400
+Nov 04 18:06 : client: [1] opened from [::1]:53482
+Nov 04 18:06 : exception: Not playing
+Nov 04 18:06 : client: [1] closed
+Nov 04 18:08 : client: [0] closed
+Nov 04 18:08 : client: [2] opened from 127.0.0.1:48750
+Nov 04 18:09 : client: [2] closed
+Nov 04 18:09 : client: [3] opened from 127.0.0.1:48792
+Nov 04 18:15 : client: [3] closed
+Nov 04 18:15 : client: [4] opened from 127.0.0.1:49784
+Nov 04 18:17 : client: [4] closed
+Nov 04 18:17 : client: [5] opened from 127.0.0.1:50098
+Nov 04 18:18 : client: [5] closed
+Nov 04 18:18 : client: [6] opened from 127.0.0.1:50232
+Nov 04 18:19 : client: [6] closed
+Nov 04 18:19 : client: [7] opened from 127.0.0.1:50246
+Nov 04 18:21 : client: [7] closed
+Nov 04 18:21 : client: [8] opened from 127.0.0.1:50806
+Nov 04 18:21 : client: [8] closed
+Nov 04 18:21 : client: [9] opened from 127.0.0.1:50812
+Nov 04 18:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 18:23 : client: [0] opened from 127.0.0.1:43922
+Nov 04 18:23 : client: [0] closed
+Nov 04 18:23 : client: [1] opened from 127.0.0.1:43924
+Nov 04 18:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 18:27 : client: [0] opened from 127.0.0.1:53972
+Nov 04 18:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 18:31 : client: [0] opened from 127.0.0.1:40732
+Nov 04 18:32 : client: [0] closed
+Nov 04 18:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 18:32 : client: [0] opened from 127.0.0.1:52850
+Nov 04 18:32 : client: [0] closed
+Nov 04 18:32 : client: [1] opened from 127.0.0.1:52852
+Nov 04 19:14 : client: [1] closed
+Nov 04 19:14 : client: [2] opened from 127.0.0.1:57722
+Nov 05 10:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 05 10:39 : client: [0] opened from 127.0.0.1:46570
+Nov 05 10:39 : client: [0] closed
+Nov 05 10:39 : client: [1] opened from 127.0.0.1:46572
+Nov 05 12:01 : client: [2] opened from [::1]:54332
+Nov 05 12:01 : exception: Not playing
+Nov 05 12:01 : client: [2] closed
+Nov 05 13:34 : client: [3] opened from [::1]:41580
+Nov 05 13:34 : exception: Not playing
+Nov 05 13:34 : client: [3] closed
+Nov 05 18:42 : client: [4] opened from [::1]:49024
+Nov 05 18:42 : client: [4] closed
+Nov 05 18:42 : client: [5] opened from [::1]:49028
+Nov 05 18:42 : client: [5] closed
+Nov 05 18:42 : client: [6] opened from [::1]:49038
+Nov 05 18:42 : client: [6] closed
+Nov 05 18:44 : client: [7] opened from [::1]:49284
+Nov 05 18:44 : client: [7] closed
+Nov 05 19:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 05 19:43 : client: [0] opened from 127.0.0.1:44044
+Nov 05 19:43 : client: [0] closed
+Nov 05 19:43 : client: [1] opened from 127.0.0.1:44046
+Nov 06 18:55 : client: [1] closed
+Nov 06 18:57 : client: [2] opened from 127.0.0.1:57050
+Nov 06 18:57 : client: [2] closed
+Nov 06 18:57 : client: [3] opened from 127.0.0.1:57052
+Nov 06 19:00 : client: [3] closed
+Nov 06 19:00 : client: [4] opened from 127.0.0.1:57348
+Nov 06 19:01 : client: [4] closed
+Nov 06 19:02 : client: [5] opened from 127.0.0.1:57400
+Nov 06 19:02 : client: [5] closed
+Nov 06 19:02 : client: [6] opened from 127.0.0.1:57606
+Nov 06 19:03 : client: [6] closed
+Nov 06 19:03 : client: [7] opened from 127.0.0.1:57608
+Nov 06 19:04 : client: [8] opened from [::1]:35046
+Nov 06 19:05 : client: [8] closed
+Nov 06 19:06 : client: [7] closed
+Nov 06 19:06 : client: [9] opened from 127.0.0.1:58248
+Nov 06 19:06 : client: [9] closed
+Nov 06 19:06 : client: [10] opened from 127.0.0.1:58252
+Nov 06 19:08 : client: [10] closed
+Nov 06 19:08 : client: [11] opened from 127.0.0.1:58474
+Nov 06 19:09 : client: [11] closed
+Nov 06 19:09 : client: [12] opened from 127.0.0.1:58516
+Nov 06 19:09 : client: [12] closed
+Nov 06 19:09 : client: [13] opened from 127.0.0.1:58518
+Nov 06 19:10 : client: [13] closed
+Nov 06 19:10 : client: [14] opened from 127.0.0.1:58568
+Nov 06 19:10 : client: [14] closed
+Nov 06 19:10 : client: [15] opened from 127.0.0.1:58570
+Nov 06 19:12 : client: [15] closed
+Nov 06 19:12 : client: [16] opened from 127.0.0.1:58692
+Nov 06 19:12 : client: [16] closed
+Nov 06 19:12 : client: [17] opened from 127.0.0.1:58694
+Nov 06 19:22 : client: [17] closed
+Nov 06 19:22 : client: [18] opened from 127.0.0.1:59368
+Nov 06 19:24 : client: [18] closed
+Nov 06 19:24 : client: [19] opened from 127.0.0.1:59374
+Nov 06 19:24 : client: [19] closed
+Nov 06 19:24 : client: [20] opened from 127.0.0.1:59376
+Nov 06 19:30 : client: [20] closed
+Nov 06 19:30 : client: [21] opened from 127.0.0.1:59560
+Nov 06 19:32 : client: [21] closed
+Nov 06 19:32 : client: [22] opened from 127.0.0.1:59564
+Nov 06 19:33 : client: [22] closed
+Nov 06 19:33 : client: [23] opened from 127.0.0.1:59574
+Nov 06 19:34 : client: [23] closed
+Nov 06 19:34 : client: [24] opened from 127.0.0.1:59580
+Nov 06 19:35 : client: [24] closed
+Nov 06 19:35 : client: [25] opened from 127.0.0.1:59582
+Nov 06 19:36 : client: [25] closed
+Nov 06 19:36 : client: [26] opened from 127.0.0.1:59612
+Nov 06 19:37 : client: [26] closed
+Nov 06 19:37 : client: [27] opened from 127.0.0.1:59862
+Nov 06 19:38 : client: [27] closed
+Nov 06 19:38 : client: [28] opened from 127.0.0.1:59882
+Nov 06 19:40 : client: [28] closed
+Nov 06 19:40 : client: [29] opened from 127.0.0.1:59932
+Nov 06 19:42 : client: [29] closed
+Nov 06 19:42 : client: [30] opened from 127.0.0.1:60138
+Nov 06 19:43 : client: [30] closed
+Nov 06 19:43 : client: [31] opened from 127.0.0.1:60182
+Nov 06 19:44 : client: [31] closed
+Nov 06 19:44 : client: [32] opened from 127.0.0.1:60222
+Nov 06 19:45 : client: [32] closed
+Nov 06 19:45 : client: [33] opened from 127.0.0.1:60262
+Nov 06 19:45 : client: [33] closed
+Nov 06 19:45 : client: [34] opened from 127.0.0.1:60272
+Nov 06 19:45 : client: [34] closed
+Nov 06 19:46 : client: [35] opened from 127.0.0.1:60284
+Nov 06 19:49 : client: [35] closed
+Nov 06 19:49 : client: [36] opened from 127.0.0.1:60370
+Nov 06 19:49 : client: [36] closed
+Nov 06 19:49 : client: [37] opened from 127.0.0.1:60382
+Nov 06 19:50 : client: [37] closed
+Nov 06 19:50 : client: [38] opened from 127.0.0.1:60394
+Nov 06 19:51 : client: [38] closed
+Nov 06 19:51 : client: [39] opened from 127.0.0.1:60558
+Nov 06 19:52 : client: [39] closed
+Nov 06 19:52 : client: [40] opened from 127.0.0.1:60570
+Nov 06 19:52 : client: [40] closed
+Nov 06 19:52 : client: [41] opened from 127.0.0.1:60590
+Nov 06 19:52 : client: [41] closed
+Nov 06 19:52 : client: [42] opened from 127.0.0.1:60602
+Nov 06 19:54 : client: [42] closed
+Nov 06 19:54 : client: [43] opened from 127.0.0.1:60974
+Nov 06 19:54 : client: [43] closed
+Nov 06 19:54 : client: [44] opened from 127.0.0.1:60986
+Nov 06 19:55 : client: [44] closed
+Nov 06 19:55 : client: [45] opened from 127.0.0.1:32788
+Nov 06 19:58 : client: [45] closed
+Nov 06 19:58 : client: [46] opened from 127.0.0.1:32988
+Nov 06 19:58 : client: [46] closed
+Nov 06 19:58 : client: [47] opened from 127.0.0.1:33000
+Nov 06 20:00 : client: [47] closed
+Nov 06 20:00 : client: [48] opened from 127.0.0.1:33058
+Nov 06 20:01 : client: [48] closed
+Nov 06 20:01 : client: [49] opened from 127.0.0.1:33124
+Nov 06 20:02 : client: [49] closed
+Nov 06 20:02 : client: [50] opened from 127.0.0.1:33278
+Nov 06 20:03 : client: [50] closed
+Nov 06 20:03 : client: [51] opened from 127.0.0.1:33432
+Nov 07 00:09 : client: [52] opened from [::1]:44980
+Nov 07 00:09 : exception: Not playing
+Nov 07 00:09 : client: [52] closed
+Nov 07 00:20 : client: [51] closed
+Nov 07 00:20 : client: [53] opened from 127.0.0.1:40538
+Nov 07 00:20 : client: [53] closed
+Nov 07 00:20 : client: [54] opened from 127.0.0.1:40550
+Nov 07 00:20 : client: [54] closed
+Nov 07 00:20 : client: [55] opened from 127.0.0.1:40562
+Nov 07 00:20 : client: [55] closed
+Nov 07 00:20 : client: [56] opened from 127.0.0.1:40574
