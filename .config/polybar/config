@@ -385,6 +385,8 @@ exec = /home/$USER/scripts/météo.sh
 click-middle = /home/chris/scripts/météo.sh
 label = %output%
 interval = 1800
+format-prefix-foreground = ${colors.foreground-alt}
+format-underline = ${xrdb:color6}
 
 [module/spotify]
 type = custom/script
