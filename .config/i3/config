@@ -47,9 +47,9 @@ exec --no-startup-id killall python ~/.config/Scripts/offlineimap-daemon.py
 exec --no-startup-id python ~/.config/Scripts/offlineimap-daemon.py
 #Add wallpaper:
 #exec --no-startup-id feh --bg-scale ~/.config/wall.png
-exec --no-startup-id feh --bg-scale /home/chris/Images/walla.jpg
+exec --no-startup-id feh --bg-scale /home/kristobal/Images/walla.jpg
 #Colorscheme
-exec --no-startup-id wal -i /home/chris/Images/walla.jpg
+exec --no-startup-id wal -i /home/kristobam/Images/walla.jpg
 #Remap Menu button to Super:
 #exec_always --no-startup-id xmodmap -e 'keycode 135 = Super_R'
 bindsym Menu	exec --no-startup-id xmodmap -e 'keycode 135 = Super_R' 
