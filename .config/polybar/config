@@ -374,15 +374,15 @@ menu-2-1-exec = menu-open-0
 ; Custom modules
 [module/pac-updates]
 type = custom/script
-exec = /home/chris/scripts/pac-updates.sh
-click-middle = /home/chris/scripts/pac-updates.sh
+exec = /home/kristobal/scripts/pac-updates.sh
+click-middle = /home/kristobal/scripts/pac-updates.sh
 label = %output%
 interval = 30
 
 [module/météo]
 type = custom/script
 exec = /home/$USER/scripts/météo.sh
-click-middle = /home/chris/scripts/météo.sh
+click-middle = /home/kristobal/scripts/météo.sh
 label = %output%
 interval = 1800
 format-prefix-foreground = ${colors.foreground-alt}
