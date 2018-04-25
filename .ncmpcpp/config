@@ -30,7 +30,7 @@
 #
 ## Needed for tag editor and file operations to work.
 ##
-mpd_music_dir = "~/home/chris/Musique"
+mpd_music_dir = "~/home/kristobal/Musique"
 #
 playlist_directory "~/.mpd/playlists"   
 #
